@@ -1,2 +1,2 @@
 print("I love funny cats")
-print("I like funny dogs too")
+print("I like Stashing")
